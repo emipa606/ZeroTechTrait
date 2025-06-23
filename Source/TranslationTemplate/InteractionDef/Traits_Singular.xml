@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: nonsense -->
+  <Ling_NoGod_Nonsense.label>nonsense</Ling_NoGod_Nonsense.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef][nothingto][complimented] [RECIPIENT_nameDef]的[PersonalCharacteristic].</li>
+    <li>nothingto(p=3)->无缘由的</li>
+    <li>nothingto->突然的</li>
+    <li>nothingto->不讲道理的</li>
+    <li>nothingto->无凭无据的</li>
+    <li>nothingto->一边嘲笑一边</li>
+    <li>nothingto->阴阳怪气的</li>
+    <li>complimented(p=3)->反驳</li>
+    <li>complimented->贬低</li>
+    <li>complimented->嘲笑</li>
+    <li>complimented->讨论</li>
+    <li>complimented->讽刺</li>
+    <li>complimented->公开</li>
+  -->
+  <Ling_NoGod_Nonsense.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][nothingto][complimented] [RECIPIENT_nameDef]的[PersonalCharacteristic].</li>
+    <li>nothingto(p=3)->无缘由的</li>
+    <li>nothingto->突然的</li>
+    <li>nothingto->不讲道理的</li>
+    <li>nothingto->无凭无据的</li>
+    <li>nothingto->一边嘲笑一边</li>
+    <li>nothingto->阴阳怪气的</li>
+    <li>complimented(p=3)->反驳</li>
+    <li>complimented->贬低</li>
+    <li>complimented->嘲笑</li>
+    <li>complimented->讨论</li>
+    <li>complimented->讽刺</li>
+    <li>complimented->公开</li>
+  </Ling_NoGod_Nonsense.logRulesInitiator.rulesStrings>
+</LanguageData>

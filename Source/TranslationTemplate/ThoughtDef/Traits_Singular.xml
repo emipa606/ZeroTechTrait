@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 没有对象 -->
+  <Ling_NoGod_14.stages.0.label>没有对象</Ling_NoGod_14.stages.0.label>
+  <!-- EN: 哦老天啊,居然没有人和我这么优秀的人在一起 -->
+  <Ling_NoGod_14.stages.0.description>哦老天啊,居然没有人和我这么优秀的人在一起</Ling_NoGod_14.stages.0.description>
+  <!-- EN: 只有一个对象 -->
+  <Ling_NoGod_14.stages.1.label>只有一个对象</Ling_NoGod_14.stages.1.label>
+  <!-- EN: 我这么优秀的人居然只有一个伴侣 -->
+  <Ling_NoGod_14.stages.1.description>我这么优秀的人居然只有一个伴侣</Ling_NoGod_14.stages.1.description>
+  <!-- EN: 有两个对象 -->
+  <Ling_NoGod_14.stages.2.label>有两个对象</Ling_NoGod_14.stages.2.label>
+  <!-- EN: 还算勉勉强强吧... -->
+  <Ling_NoGod_14.stages.2.description>还算勉勉强强吧...</Ling_NoGod_14.stages.2.description>
+  <!-- EN: 有多个对象 -->
+  <Ling_NoGod_14.stages.3.label>有多个对象</Ling_NoGod_14.stages.3.label>
+  <!-- EN: 这才是完美的生活! -->
+  <Ling_NoGod_14.stages.3.description>这才是完美的生活!</Ling_NoGod_14.stages.3.description>
+  <!-- EN: nonsense -->
+  <Ling_NoGod_Nonsense.stages.nonsense.label>nonsense</Ling_NoGod_Nonsense.stages.nonsense.label>
+  <!-- EN: nonsense -->
+  <Ling_NoGod_NonsenseMood.stages.nonsense.label>nonsense</Ling_NoGod_NonsenseMood.stages.nonsense.label>
+  <!-- EN: That person told me a lot of nonsense! What an awful person! -->
+  <Ling_NoGod_NonsenseMood.stages.nonsense.description>That person told me a lot of nonsense! What an awful person!</Ling_NoGod_NonsenseMood.stages.nonsense.description>
+</LanguageData>

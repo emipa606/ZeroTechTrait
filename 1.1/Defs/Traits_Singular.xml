@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- 
 	{PAWN_nameDef}
@@ -95,19 +95,19 @@
     <socialFightBaseChance>0.8</socialFightBaseChance>
     <logRulesInitiator>
       <rulesStrings>
-        <li>r_logentry-&gt;[INITIATOR_nameDef][nothingto][complimented] [RECIPIENT_nameDef]的[PersonalCharacteristic].</li>
-        <li>nothingto(p=3)-&gt;无缘由的</li>
-        <li>nothingto-&gt;突然的</li>
-        <li>nothingto-&gt;不讲道理的</li>
-        <li>nothingto-&gt;无凭无据的</li>
-        <li>nothingto-&gt;一边嘲笑一边</li>
-        <li>nothingto-&gt;阴阳怪气的</li>
-        <li>complimented(p=3)-&gt;反驳</li>
-        <li>complimented-&gt;贬低</li>
-        <li>complimented-&gt;嘲笑</li>
-        <li>complimented-&gt;讨论</li>
-        <li>complimented-&gt;讽刺</li>
-        <li>complimented-&gt;公开</li>
+        <li>r_logentry->[INITIATOR_nameDef][nothingto][complimented] [RECIPIENT_nameDef]的[PersonalCharacteristic].</li>
+        <li>nothingto(p=3)->无缘由的</li>
+        <li>nothingto->突然的</li>
+        <li>nothingto->不讲道理的</li>
+        <li>nothingto->无凭无据的</li>
+        <li>nothingto->一边嘲笑一边</li>
+        <li>nothingto->阴阳怪气的</li>
+        <li>complimented(p=3)->反驳</li>
+        <li>complimented->贬低</li>
+        <li>complimented->嘲笑</li>
+        <li>complimented->讨论</li>
+        <li>complimented->讽刺</li>
+        <li>complimented->公开</li>
       </rulesStrings>
     </logRulesInitiator>
   </InteractionDef>

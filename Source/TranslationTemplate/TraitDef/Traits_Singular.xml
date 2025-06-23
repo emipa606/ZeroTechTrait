@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 身体畸形 -->
+  <Ling_NoGod_10.degreeDatas.0.label>身体畸形</Ling_NoGod_10.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的身体宛如重灾车祸现场一般,而且{PAWN_pronoun}由于肢体的畸形导致各方面的能力都弱于常人. -->
+  <Ling_NoGod_10.degreeDatas.0.description>{PAWN_nameDef}的身体宛如重灾车祸现场一般,而且{PAWN_pronoun}由于肢体的畸形导致各方面的能力都弱于常人.</Ling_NoGod_10.degreeDatas.0.description>
+  <!-- EN: 傲慢 -->
+  <Ling_NoGod_12.degreeDatas.0.label>傲慢</Ling_NoGod_12.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}自视甚高,认为自己什么都懂,不需要学习. -->
+  <Ling_NoGod_12.degreeDatas.0.description>{PAWN_nameDef}自视甚高,认为自己什么都懂,不需要学习.</Ling_NoGod_12.degreeDatas.0.description>
+  <!-- EN: 贪色 -->
+  <Ling_NoGod_14.degreeDatas.0.label>贪色</Ling_NoGod_14.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}对色欲十分贪婪,如果没有拥有多个情人,就会十分痛苦. -->
+  <Ling_NoGod_14.degreeDatas.0.description>{PAWN_nameDef}对色欲十分贪婪,如果没有拥有多个情人,就会十分痛苦.</Ling_NoGod_14.degreeDatas.0.description>
+  <!-- EN: 精神狂躁 -->
+  <Ling_NoGod_2.degreeDatas.0.label>精神狂躁</Ling_NoGod_2.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}难以控制自己的精神,经常会不分场合的向周围的人发泄无缘由的怒火. -->
+  <Ling_NoGod_2.degreeDatas.0.description>{PAWN_nameDef}难以控制自己的精神,经常会不分场合的向周围的人发泄无缘由的怒火.</Ling_NoGod_2.degreeDatas.0.description>
+  <!-- EN: 畏寒体质 -->
+  <Ling_NoGod_4.degreeDatas.0.label>畏寒体质</Ling_NoGod_4.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}对寒冷环境的抗性很弱,很容易就被冻伤. -->
+  <Ling_NoGod_4.degreeDatas.0.description>{PAWN_nameDef}对寒冷环境的抗性很弱,很容易就被冻伤.</Ling_NoGod_4.degreeDatas.0.description>
+  <!-- EN: 畏热体质 -->
+  <Ling_NoGod_5.degreeDatas.0.label>畏热体质</Ling_NoGod_5.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}对炎热环境的抗性很弱,很容易就被灼伤. -->
+  <Ling_NoGod_5.degreeDatas.0.description>{PAWN_nameDef}对炎热环境的抗性很弱,很容易就被灼伤.</Ling_NoGod_5.degreeDatas.0.description>
+  <!-- EN: 数学白痴 -->
+  <Ling_NoGod_9.degreeDatas.0.label>数学白痴</Ling_NoGod_9.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}大脑用于进行计算的部分存在一些缺陷,每当进行交易或计算工作的时候总会出那么点错误. -->
+  <Ling_NoGod_9.degreeDatas.0.description>{PAWN_nameDef}大脑用于进行计算的部分存在一些缺陷,每当进行交易或计算工作的时候总会出那么点错误.</Ling_NoGod_9.degreeDatas.0.description>
+  <!-- EN: 免疫缺失 -->
+  <Ling_NoGod_Immunodeficiency.degreeDatas.0.label>免疫缺失</Ling_NoGod_Immunodeficiency.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的免疫系统有着严重缺陷,{PAWN_pronoun}的免疫能力几乎不存在,几乎一点小病都能使其死亡. -->
+  <Ling_NoGod_Immunodeficiency.degreeDatas.0.description>{PAWN_nameDef}的免疫系统有着严重缺陷,{PAWN_pronoun}的免疫能力几乎不存在,几乎一点小病都能使其死亡.</Ling_NoGod_Immunodeficiency.degreeDatas.0.description>
+  <!-- EN: 杠精 -->
+  <Ling_NoGod_Nonsense.degreeDatas.0.label>杠精</Ling_NoGod_Nonsense.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}喜欢通过抬杠来获取快感,总喜欢无视或曲解他人逻辑来唱反调激怒别人. -->
+  <Ling_NoGod_Nonsense.degreeDatas.0.description>{PAWN_nameDef}喜欢通过抬杠来获取快感,总喜欢无视或曲解他人逻辑来唱反调激怒别人.</Ling_NoGod_Nonsense.degreeDatas.0.description>
+  <!-- EN: 不值分文 -->
+  <Ling_NoGod_NoValue.degreeDatas.0.label>不值分文</Ling_NoGod_NoValue.degreeDatas.0.label>
+  <!-- EN: 由于不知名的原因,{PAWN_nameDef}不管做出什么惊人的壮举,{PAWN_pronoun}的身价也不会发生一丝一毫的的变化,即使在奴隶商场上也不会有人愿意去购买{PAWN_pronoun}. -->
+  <Ling_NoGod_NoValue.degreeDatas.0.description>由于不知名的原因,{PAWN_nameDef}不管做出什么惊人的壮举,{PAWN_pronoun}的身价也不会发生一丝一毫的的变化,即使在奴隶商场上也不会有人愿意去购买{PAWN_pronoun}.</Ling_NoGod_NoValue.degreeDatas.0.description>
+</LanguageData>
